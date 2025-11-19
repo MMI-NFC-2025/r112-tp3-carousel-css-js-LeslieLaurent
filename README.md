@@ -174,6 +174,12 @@ Ajouter une liste de lien avec ancres vers les éléments du carrousel
 
 Tester le bon défilement au clic sur les ancres
 
+### À faire :
+
+- [ ] Ajouter des `id` aux éléments du carrousel (`carousel__item`)
+- [ ] Créer une liste de liens avec ancres pointant vers ces `id`
+- [ ] Tester que le défilement fonctionne correctement au clic sur les ancres
+
 **Faire commit** : Carrousel avec ancres
 
 ## Carrousel avec btn sur les éléments
